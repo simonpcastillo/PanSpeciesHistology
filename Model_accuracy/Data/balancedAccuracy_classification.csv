@@ -1,0 +1,21 @@
+Species code,Common name,Species,Diagnosis,Neoplasia site,Tumour type,Annotations,CBA
+BITARI,Puff adder,Bitis arietans,Carcinoma,Pancreas,Epithelial,336,0.88
+CANFAM,Dog,Canis familiaris,Canine transmissible venereal tumor,Intra vaginal,Round-cell,629,0.94
+CAPHIR,West African pygmy goat,Capra hircus,Lymphosarcoma,Forestomach,Round-cell,965,0.70
+CRAHEA,Panay cloudrunner,Crateromys heaneyi,Hepatocellular carcinoma,Liver,Epithelial,730,0.89
+CYACYA,Red-legged honeycreeper, Cyanerpes cyaneus,Sertoli cell tumor,Testis,Sex-cord stromal,762,0.86
+DASBYR,Kowari,Dasyuroides byrnie,Squamous cell carcinoma,Mouth,Epithelial,462,0.74
+GALMOH,Greater bushbaby,Galago moholi,Squamous cell carcinoma,Skin,Epithelial,684,0.79
+GONOXY,Redtailed ratsnake,Gonyosoma oxycephala,Metastatic anaplastic sarcoma,Multiple,Mesenchymal,526,0.91
+LEMCAT,Ring-tailed lemur,Lemur catta,Haemangiosarcoma,Kidney,Mesenchymal,1049,0.79
+LEOCHR,Golden-headed Lion Tamarin,Leontopithecus chrysomelas,Adenoma,Pituitary,Epithelial,601,0.94
+LEPFAL,Mountain chicken frog,Leptodactylus fallax,Adenocarcinoma,Celomic cavity,Epithelial,740,0.81
+MELURS,Sri Lankan sloth bear,Melursus ursinus inornatus,Pheochromocytoma,Adrenal,Neuroendocrine,959,0.88
+MUSPUT,Domestic polecat,Mustela putorius furo,Sebaceous epithelioma,Skin,Epithelial,702,0.88
+NASNAS,Brown-nosed coati,Nasua nasua,Lymphosarcoma,Multiple,Round-cell,520,0.57
+OSTTET,West African dwarf crocodile,Osteolaemus tetraspis tetraspis,Lipoma,Liver,Neuroendocrine,1142,0.77
+PANTRO,Chimpanzee,Pan troglodytes,Spindle cell tumor,Palate,Mesenchymal,866,0.75
+SARHAR,Tasmanian devil,Sarcophilus harrisii,Devil facial tumor 1 (DFT1),Hard palate near left hand side,Round-cell,484,0.88
+SPHHUM,Humbolt penguin,Spheniscus humboldti,Renal cell adenoma,Kidney,Epithelial,452,0.72
+SUSBAR,Bearded Pig,Sus barbatus,Adenocarcinoma,Uterus,Epithelial,1595,0.80
+VARPRA,Emerald monitor,Varanus prasinus,Spindle cell sarcoma,Multiple,Mesenchymal,366,0.80

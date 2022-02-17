@@ -1,0 +1,81 @@
+"","sp.code","Species","Common.name..Species.","class","Neoplasia.Site","Tumor.type","Sensitivity","Specificity","Precision","F1"
+"1","BITARI","Bitis arietans","Puff adder","Stromal","Pancreas","Epithelial",0.853658536585366,0.849765258215962,0.766423357664234,0.807692307692308
+"2","BITARI","Bitis arietans","Puff adder","Lymphocyte","Pancreas","Epithelial",0.928571428571429,0.96583850931677,0.541666666666667,0.684210526315789
+"3","BITARI","Bitis arietans","Puff adder","Cancer","Pancreas","Epithelial",0.768844221105528,0.912408759124088,0.927272727272727,0.840659340659341
+"4","BITARI","Bitis arietans","Puff adder","mean","Pancreas","Epithelial",0.850358062087441,0.909337508885607,0.745120917201209,0.777520724889146
+"5","CANFAM","Canis familiaris","Dog","Stromal","Intra vaginal","Round-cell",0.766666666666667,1,1,0.867924528301887
+"6","CANFAM","Canis familiaris","Dog","Lymphocyte","Intra vaginal","Round-cell",0.991379310344828,0.994152046783626,0.974576271186441,0.982905982905983
+"7","CANFAM","Canis familiaris","Dog","Cancer","Intra vaginal","Round-cell",0.993377483443709,0.914772727272727,0.967741935483871,0.980392156862745
+"8","CANFAM","Canis familiaris","Dog","mean","Intra vaginal","Round-cell",0.917141153485068,0.969641591352118,0.980772735556771,0.943740889356872
+"9","CAPHIR","Capra hircus","West African pygmy goat","Stromal","Forestomach","Round-cell",0.855855855855856,0.994145199063232,0.95,0.900473933649289
+"10","CAPHIR","Capra hircus","West African pygmy goat","Lymphocyte","Forestomach","Round-cell",0.905405405405405,0.312247644683715,0.282303370786517,0.430406852248394
+"11","CAPHIR","Capra hircus","West African pygmy goat","Cancer","Forestomach","Round-cell",0.188291139240506,0.915915915915916,0.80952380952381,0.305519897304236
+"12","CAPHIR","Capra hircus","West African pygmy goat","mean","Forestomach","Round-cell",0.649850800167256,0.740769586554287,0.680609060103442,0.54546689440064
+"13","CRAHEA","Crateromys heaneyi","Panay cloudrunner","Stromal","Liver","Epithelial",0.571428571428571,0.973813420621931,0.80952380952381,0.669950738916256
+"14","CRAHEA","Crateromys heaneyi","Panay cloudrunner","Lymphocyte","Liver","Epithelial",0.974169741697417,0.938997821350762,0.904109589041096,0.937833037300178
+"15","CRAHEA","Crateromys heaneyi","Panay cloudrunner","Cancer","Liver","Epithelial",0.920588235294118,0.982051282051282,0.978125,0.948484848484848
+"16","CRAHEA","Crateromys heaneyi","Panay cloudrunner","mean","Liver","Epithelial",0.822062182806702,0.964954174674658,0.897252799521635,0.852089541567094
+"17","CYACYA"," Cyanerpes cyaneus","Red-legged honeycreeper","Stromal","Testis","Sex-cord stromal",0.822429906542056,0.989312977099237,0.926315789473684,0.871287128712871
+"18","CYACYA"," Cyanerpes cyaneus","Red-legged honeycreeper","Lymphocyte","Testis","Sex-cord stromal",0.717948717948718,0.953795379537954,0.8,0.756756756756757
+"19","CYACYA"," Cyanerpes cyaneus","Red-legged honeycreeper","Cancer","Testis","Sex-cord stromal",0.927855711422846,0.76425855513308,0.881904761904762,0.904296875
+"20","CYACYA"," Cyanerpes cyaneus","Red-legged honeycreeper","mean","Testis","Sex-cord stromal",0.822744778637873,0.902455637256757,0.869406850459482,0.844113586823209
+"21","DASBYR","Dasyuroides byrnie","Kowari","Stromal","Mouth","Epithelial",0.451807228915663,0.996621621621622,0.986842105263158,0.619834710743802
+"22","DASBYR","Dasyuroides byrnie","Kowari","Cancer","Mouth","Epithelial",0.996621621621622,0.512048192771084,0.784574468085106,0.87797619047619
+"23","DASBYR","Dasyuroides byrnie","Kowari","Lymphocyte","Mouth","Epithelial",NA,0.995670995670996,0,NA
+"24","DASBYR","Dasyuroides byrnie","Kowari","mean","Mouth","Epithelial",0.724214425268643,0.834780270021234,0.590472191116088,0.748905450609996
+"25","GALMOH","Galago moholi","Greater bushbaby","Stromal","Skin","Epithelial",0.556561085972851,0.879049676025918,0.687150837988827,0.615
+"26","GALMOH","Galago moholi","Greater bushbaby","Lymphocyte","Skin","Epithelial",0.86046511627907,0.948827292110874,0.885167464114832,0.872641509433962
+"27","GALMOH","Galago moholi","Greater bushbaby","Cancer","Skin","Epithelial",0.737903225806452,0.76605504587156,0.642105263157895,0.686679174484052
+"28","GALMOH","Galago moholi","Greater bushbaby","mean","Skin","Epithelial",0.718309809352791,0.864644004669451,0.738141188420518,0.724773561306005
+"29","GONOXY","Gonyosoma oxycephala","Redtailed ratsnake","Stromal","Multiple","Mesenchymal",0.65979381443299,0.988344988344988,0.927536231884058,0.771084337349398
+"30","GONOXY","Gonyosoma oxycephala","Redtailed ratsnake","Lymphocyte","Multiple","Mesenchymal",0.974358974358974,0.990220048899755,0.966101694915254,0.970212765957447
+"31","GONOXY","Gonyosoma oxycephala","Redtailed ratsnake","Cancer","Multiple","Mesenchymal",0.977564102564103,0.850467289719626,0.905044510385757,0.939907550077042
+"32","GONOXY","Gonyosoma oxycephala","Redtailed ratsnake","mean","Multiple","Mesenchymal",0.870572297118689,0.94301077565479,0.932894145728356,0.893734884461295
+"33","LEMCAT","Lemur catta","Ring-tailed lemur","Stromal","Kidney","Mesenchymal",0.532110091743119,0.938628158844765,0.694610778443114,0.602597402597403
+"34","LEMCAT","Lemur catta","Ring-tailed lemur","Lymphocyte","Kidney","Mesenchymal",0.7,0.977428851815505,0.477272727272727,0.567567567567568
+"35","LEMCAT","Lemur catta","Ring-tailed lemur","Cancer","Kidney","Mesenchymal",0.916354556803995,0.661290322580645,0.897310513447433,0.906732550957381
+"36","LEMCAT","Lemur catta","Ring-tailed lemur","mean","Kidney","Mesenchymal",0.716154882849038,0.859115777746972,0.689731339721091,0.692299173707451
+"37","LEOCHR","Leontopithecus chrysomelas","Golden-headed Lion Tamarin","Stromal","Pituitary","Epithelial",0.785714285714286,0.990825688073395,0.897959183673469,0.838095238095238
+"38","LEOCHR","Leontopithecus chrysomelas","Golden-headed Lion Tamarin","Lymphocyte","Pituitary","Epithelial",0.946280991735537,0.994428969359331,0.991341991341991,0.968287526427061
+"39","LEOCHR","Leontopithecus chrysomelas","Golden-headed Lion Tamarin","Cancer","Pituitary","Epithelial",0.976897689768977,0.949664429530201,0.951768488745981,0.964169381107492
+"40","LEOCHR","Leontopithecus chrysomelas","Golden-headed Lion Tamarin","mean","Pituitary","Epithelial",0.902964322406267,0.978306362320976,0.947023221253814,0.923517381876597
+"41","LEPFAL","Leptodactylus fallax","Mountain chicken frog","Stromal","Celomic cavity","Epithelial",0.490066225165563,0.99151103565365,0.936708860759494,0.643478260869565
+"42","LEPFAL","Leptodactylus fallax","Mountain chicken frog","Lymphocyte","Celomic cavity","Epithelial",0.717171717171717,0.995319812792512,0.959459459459459,0.820809248554913
+"43","LEPFAL","Leptodactylus fallax","Mountain chicken frog","Cancer","Celomic cavity","Epithelial",0.993877551020408,0.644,0.845486111111111,0.913696060037523
+"44","LEPFAL","Leptodactylus fallax","Mountain chicken frog","mean","Celomic cavity","Epithelial",0.733705164452563,0.876943616148721,0.913884810443355,0.792661189820667
+"45","MELURS","Melursus ursinus inornatus","Sri Lankan sloth bear","Stromal","Adrenal","Neuroendocrine",0.702786377708978,0.949685534591195,0.876447876447876,0.780068728522337
+"46","MELURS","Melursus ursinus inornatus","Sri Lankan sloth bear","Lymphocyte","Adrenal","Neuroendocrine",0.883161512027491,0.947604790419162,0.88013698630137,0.881646655231561
+"47","MELURS","Melursus ursinus inornatus","Sri Lankan sloth bear","Cancer","Adrenal","Neuroendocrine",0.910144927536232,0.91042345276873,0.850948509485095,0.879551820728291
+"48","MELURS","Melursus ursinus inornatus","Sri Lankan sloth bear","mean","Adrenal","Neuroendocrine",0.832030939090901,0.935904592593029,0.86917779074478,0.84708906816073
+"49","MUSPUT","Mustela putorius furo","Domestic polecat","Stromal","Skin","Epithelial",0.569948186528497,0.992141453831041,0.964912280701754,0.716612377850163
+"50","MUSPUT","Mustela putorius furo","Domestic polecat","Lymphocyte","Skin","Epithelial",0.894230769230769,0.954849498327759,0.775,0.830357142857143
+"51","MUSPUT","Mustela putorius furo","Domestic polecat","Cancer","Skin","Epithelial",0.960493827160494,0.898989898989899,0.928400954653938,0.944174757281553
+"52","MUSPUT","Mustela putorius furo","Domestic polecat","mean","Skin","Epithelial",0.808224260973253,0.948660283716233,0.889437745118564,0.830381425996286
+"53","NASNAS","Nasua nasua","Brown-nosed coati","Stromal","Multiple","Round-cell",0.488095238095238,1,1,0.656
+"54","NASNAS","Nasua nasua","Brown-nosed coati","Cancer","Multiple","Round-cell",0.0261194029850746,0.785714285714286,0.114754098360656,0.0425531914893617
+"55","NASNAS","Nasua nasua","Brown-nosed coati","Lymphocyte","Multiple","Round-cell",NA,0.396153846153846,0,NA
+"56","NASNAS","Nasua nasua","Brown-nosed coati","mean","Multiple","Round-cell",0.257107320540156,0.727289377289377,0.371584699453552,0.349276595744681
+"57","OSTTET","Osteolaemus tetraspis tetraspis","West African dwarf crocodile","Stromal","Liver","Neuroendocrine",0.831858407079646,0.946550048590865,0.630872483221476,0.717557251908397
+"58","OSTTET","Osteolaemus tetraspis tetraspis","West African dwarf crocodile","Lymphocyte","Liver","Neuroendocrine",0.925233644859813,0.998922413793103,0.994974874371859,0.958837772397094
+"59","OSTTET","Osteolaemus tetraspis tetraspis","West African dwarf crocodile","Cancer","Liver","Neuroendocrine",0.00122699386503067,0.923547400611621,0.0384615384615385,0.00237812128418549
+"60","OSTTET","Osteolaemus tetraspis tetraspis","West African dwarf crocodile","mean","Liver","Neuroendocrine",0.586106348601497,0.956339954331863,0.554769632018291,0.559591048529892
+"61","PANTRO","Pan troglodytes","Chimpanzee","Stromal","Palate","Mesenchymal",0.464788732394366,0.986163522012579,0.75,0.573913043478261
+"62","PANTRO","Pan troglodytes","Chimpanzee","Lymphocyte","Palate","Mesenchymal",0.383211678832117,0.998310810810811,0.990566037735849,0.552631578947368
+"63","PANTRO","Pan troglodytes","Chimpanzee","Cancer","Palate","Mesenchymal",0.971209213051823,0.692753623188406,0.826797385620915,0.893203883495146
+"64","PANTRO","Pan troglodytes","Chimpanzee","mean","Palate","Mesenchymal",0.606403208092769,0.892409318670598,0.855787807785588,0.673249501973592
+"65","SARHAR","Sarcophilus harrisii","Tasmanian devil","Stromal","Hard palate near left hand side","Round-cell",0.786885245901639,0.990033222591362,0.979591836734694,0.872727272727273
+"66","SARHAR","Sarcophilus harrisii","Tasmanian devil","Lymphocyte","Hard palate near left hand side","Round-cell",0.705426356589147,0.997183098591549,0.989130434782609,0.823529411764706
+"67","SARHAR","Sarcophilus harrisii","Tasmanian devil","Cancer","Hard palate near left hand side","Round-cell",0.994186046511628,0.78525641025641,0.718487394957983,0.834146341463415
+"68","SARHAR","Sarcophilus harrisii","Tasmanian devil","mean","Hard palate near left hand side","Round-cell",0.828832549667471,0.924157577146441,0.895736555491762,0.843467675318464
+"69","SPHHUM","Spheniscus humboldti","Humbolt penguin","Stromal","Kidney","Epithelial",0.588888888888889,0.88121546961326,0.552083333333333,0.56989247311828
+"70","SPHHUM","Spheniscus humboldti","Humbolt penguin","Lymphocyte","Kidney","Epithelial",0.930232558139535,0.647540983606557,0.382775119617225,0.542372881355932
+"71","SPHHUM","Spheniscus humboldti","Humbolt penguin","Cancer","Kidney","Epithelial",0.431159420289855,0.863636363636364,0.832167832167832,0.568019093078759
+"72","SPHHUM","Spheniscus humboldti","Humbolt penguin","mean","Kidney","Epithelial",0.650093622439426,0.797464272285394,0.58900876170613,0.56009481585099
+"73","SUSBAR","Sus barbatus","Bearded Pig","Stromal","Uterus","Epithelial",0.471698113207547,0.997744360902256,0.9765625,0.636132315521628
+"74","SUSBAR","Sus barbatus","Bearded Pig","Lymphocyte","Uterus","Epithelial",0.709756097560976,0.971308016877637,0.895384615384615,0.791836734693877
+"75","SUSBAR","Sus barbatus","Bearded Pig","Cancer","Uterus","Epithelial",0.972826086956522,0.677037037037037,0.804132973944295,0.88047220855878
+"76","SUSBAR","Sus barbatus","Bearded Pig","mean","Uterus","Epithelial",0.718093432575015,0.882029804938977,0.89202669644297,0.769480419591428
+"77","VARPRA","Varanus prasinus","Emerald monitor","Stromal","Multiple","Mesenchymal",0.424657534246575,0.962457337883959,0.738095238095238,0.539130434782609
+"78","VARPRA","Varanus prasinus","Emerald monitor","Lymphocyte","Multiple","Mesenchymal",0.926315789473684,0.918819188191882,0.8,0.858536585365854
+"79","VARPRA","Varanus prasinus","Emerald monitor","Cancer","Multiple","Mesenchymal",0.833333333333333,0.726190476190476,0.781990521327014,0.806845965770171
+"80","VARPRA","Varanus prasinus","Emerald monitor","mean","Multiple","Mesenchymal",0.728102219017864,0.869155667422106,0.773361919807417,0.734837661972878
