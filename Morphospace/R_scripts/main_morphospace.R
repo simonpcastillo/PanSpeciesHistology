@@ -1,6 +1,6 @@
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(ggplot2, devtools, dynRB,reshape2,vegan,factoextra, dplyr, corrplot, ggrepel)
-source('Morphospace/Rscripts/ggbiplot2.R')
+source('Morphospace/R_scripts/ggbiplot2.R')
 
 ######
 ##I. Species-specific overlap
