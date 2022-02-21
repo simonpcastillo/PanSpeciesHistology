@@ -1,4 +1,4 @@
-# PanSpeciesHistology
+# Pan-species histology
 
 ## AI-powered pan-species computational pathology: bridging clinic and wildlife care
 
