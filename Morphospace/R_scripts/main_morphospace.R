@@ -131,9 +131,14 @@ source('Morphospace/R_scripts/ggbiplot2.R')
         cor.test(OvAc$Overlap, OvAc$CBA)
     
         OvAc%>%
-        ggplot(aes(Overlap, CBA, label= Species.code))+
+        ggplot(aes(Overlap*100, CBA, label= Species.code))+
           geom_point()+
           labs(x='Mean morphospace overlap (%)', y = 'Balanced accuracy')+
           geom_text_repel(size=3)+
           theme_minimal()      
+        
+        
+        OvAc %>%
+          filter(Overlap > 0.8) %>%
+          summarise(mean(CBA), min(CBA), max(CBA))
         
