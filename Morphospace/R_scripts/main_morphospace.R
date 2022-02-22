@@ -139,6 +139,7 @@ source('Morphospace/R_scripts/ggbiplot2.R')
         
         
         OvAc %>%
-          filter(Overlap > 0.8) %>%
-          summarise(mean(CBA), min(CBA), max(CBA))
+          mutate(CBA= round(CBA, 1)) %>%
+          filter(CBA > 0.8) %>%
+          summarise(n())
         
