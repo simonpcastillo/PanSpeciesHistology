@@ -1,14 +1,12 @@
+<center> <h1>AI-powered pan-species computational pathology: bridging clinic and wildlife care</h1> </center>
+
 <p align="center">
- 
-# 
+<img src="img/panspp.png" width="600" height="500">
 </p> 
 
-<center> <h1>AI-powered pan-species computational pathology: bridging clinic and wildlife care 1</h1> </center>
-
-<img src="img/panspp.png" width="600" height="500">
- 
+<p align="center"> 
 Khalid AbdulJabbar, Simon P. Castillo, Katherine Hughes, Hannah Davidson, Amy M. Boddy, Lisa M. Abegglen, Elizabeth P. Murchison, Trevor A. Graham, Simon Spiro, Chiara Palmieri, Yinyin Yuan
-
+</p>
 
 Contact [Khalid AbdulJabbar](khalid.abduljabbar@icr.ac.uk), [Simon Castillo](simon.castillo@icr.ac.uk), or [Yinyin Yuan](yinyin.yuan@icr.ac.uk)
 
