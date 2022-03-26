@@ -9,12 +9,23 @@ Khalid AbdulJabbar, Simon P. Castillo, Katherine Hughes, Hannah Davidson, Amy M.
 
 Contact: [Khalid AbdulJabbar](khalid.abduljabbar@icr.ac.uk), [Simon Castillo](simon.castillo@icr.ac.uk), or [Yinyin Yuan](yinyin.yuan@icr.ac.uk)
 
+
 ## Overview
 
-### Reproducing paper results
-For reproduction of te results we suggest to download and unzip this whole repository.
+We  conducted the first pan-species study of computational comparative pathology using a supervised convolutional neural network algorithm trained on human samples and tested in 20 non-human species. The artificial intelligence algorithm achieves high accuracy in measuring immune response through single-cell classification for two transmissible cancers (canine transmissible venereal tumour, 0.94; Tasmanian devil facial tumour disease, 0.88). Furthermore, in 18 other vertebrate species (mammalia=11, reptilia=4, aves=2, and amphibia=1), accuracy (0.57-0.94) was influenced by cell morphological similarity preserved across different taxonomic groups, tumour sites, and variations in the immune compartment. 
 
-### Analysis of morphospace
+A new metric, named morphospace overlap, was developed to guide rational deployment of this technology on new samples. This study provides the foundation and guidelines for transferring artificial intelligence technologies to veterinary pathology based on a new understanding of morphological conservation, which could vastly accelerate new developments in veterinary medicine and comparative oncology.
+
+### Reproducing paper results
+For the morphospace analysis we provided all the data necessary for reproducing our results. We suggest to download and unzip this whole repository.
+
+### 1. AI-powered image analysis and single-cell feature extraction
+
+The pipeline for image analysis is already publishes and validated. Details can be found at [Histology single-cell identification pipeline
+](https://github.com/qalid7/compath).
+
+
+### 2. Analysis of morphospace
 Morphospace analysis bundle can be found in the [Morphospace folder](https://github.com/simonpcastillo/PanSpeciesHistology/tree/main/Morphospace). It runs on R/Rstudio platforms. In the [Morphospace folder](https://github.com/simonpcastillo/PanSpeciesHistology/tree/main/Morphospace), the `PanSpeciesHistology.Rproj` can be opened with Rstudio. The main script can be found at `R_scripts/main_morphospace.R`. The first three lines of the main script install (if necessary) and load the required packages and functions to your R environment.
 
     ```{r}
