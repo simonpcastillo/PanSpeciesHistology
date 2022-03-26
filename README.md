@@ -1,7 +1,9 @@
 <p align="center">
  
-# AI-powered pan-species computational pathology: bridging clinic and wildlife care
+# 
 </p> 
+
+<center> <h1>AI-powered pan-species computational pathology: bridging clinic and wildlife care 1</h1> </center>
 
 <img src="img/panspp.png" width="600" height="500">
  
