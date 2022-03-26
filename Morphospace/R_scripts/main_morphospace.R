@@ -1,14 +1,14 @@
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(ggplot2, devtools, dynRB,reshape2,vegan,factoextra, dplyr, corrplot, ggrepel)
-source('Morphospace/R_scripts/ggbiplot2.R')
+source('R_scripts/ggbiplot2.R')
 
 ######
 ##I. Species-specific overlap
 ######
 
 #0. Data load and preparation
-      animal = read.csv('Morphospace/Data/animal.csv')
-      human = read.csv('Morphospace/Data/humanlung.csv')
+      animal = read.csv('Data/animal.csv')
+      human = read.csv('Data/humanlung.csv')
       
       animal2= animal %>%
         filter(class %in% c('l','t')) %>%
@@ -124,7 +124,7 @@ source('Morphospace/R_scripts/ggbiplot2.R')
         
         
 #4. Correlation between morphospace overlap and balanced accurracy
-        BAcc =read.csv('Model_accuracy/Data/balancedAccuracy_classification.csv')
+        BAcc =read.csv('Data/Model_accuracy/Data/balancedAccuracy_classification.csv')
         colnames(sum_overlap)[1] <- colnames(BAcc)[1] <- 'Species.code'
         
         OvAc=merge(BAcc,sum_overlap, by='Species.code' )
@@ -136,10 +136,5 @@ source('Morphospace/R_scripts/ggbiplot2.R')
           labs(x='Mean morphospace overlap (%)', y = 'Balanced accuracy')+
           geom_text_repel(size=3)+
           theme_minimal()      
-        
-        
-        OvAc %>%
-          mutate(CBA= round(CBA, 1)) %>%
-          filter(CBA > 0.8) %>%
-          summarise(n())
+
         
