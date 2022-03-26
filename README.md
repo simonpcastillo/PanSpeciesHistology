@@ -1,7 +1,7 @@
-# Pan-species histology
-
-## AI-powered pan-species computational pathology: bridging clinic and wildlife care
-<img src="img/panspp.png" width="500" height="500">
+<p align="center">
+# AI-powered pan-species computational pathology: bridging clinic and wildlife care
+<img src="img/panspp.png" width="600" height="500">
+ </p> 
 
 Khalid AbdulJabbar, Simon P. Castillo, Katherine Hughes, Hannah Davidson, Amy M. Boddy, Lisa M. Abegglen, Elizabeth P. Murchison, Trevor A. Graham, Simon Spiro, Chiara Palmieri, Yinyin Yuan
 
