@@ -7,3 +7,11 @@ Khalid AbdulJabbar, Simon P. Castillo, Katherine Hughes, Hannah Davidson, Amy M.
 Contact [Khalid AbdulJabbar](khalid.abduljabbar@icr.ac.uk), [Simon Castillo](simon.castillo@icr.ac.uk), or [Yinyin Yuan](yinyin.yuan@icr.ac.uk)
 
 ![alt text](img/panspp.png)
+
+### Reproducing paper results
+
+
+### Analysis of morphospace
+Morphospace analysis bundle can be found in the [Morphospace folder](https://github.com/simonpcastillo/PanSpeciesHistology/tree/main/Morphospace). It runs on R with single cell detections that we have provided in [Morphospace/Data](https://github.com/simonpcastillo/PanSpeciesHistology/tree/main/Morphospace/Data).
+
+
