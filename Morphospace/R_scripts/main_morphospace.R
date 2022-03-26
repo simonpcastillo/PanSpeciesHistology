@@ -123,7 +123,7 @@ source('Morphospace/R_scripts/ggbiplot2.R')
           summarise_all(funs(mean))    
         
         
-#4. Correlation between morphospace oerlap and balanced accurracy
+#4. Correlation between morphospace overlap and balanced accurracy
         BAcc =read.csv('Model_accuracy/Data/balancedAccuracy_classification.csv')
         colnames(sum_overlap)[1] <- colnames(BAcc)[1] <- 'Species.code'
         
