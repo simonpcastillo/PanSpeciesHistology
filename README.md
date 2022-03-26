@@ -49,7 +49,11 @@ Under the label `#0. Data load and preparation`, there are the steps for prepari
     ```
 Under the label `#1. PCA` (lines 24-26), the step for running a principal componen analysis on the data. Then, under the label `#2. Volumes overlap over PC1, PC2, and PC3` the step that compute volume overlap between the first three dimensions of the PCA. Code for plot-making are under the label `#3. PCA visualisation` (it makes a general plot across species).
 
-finally, a higher resolution analysis of morphospace overlap between human an non-human spacies follows the label `#II. Species-specific overlap` (line 76). It includes data preparation, PCA and overlap. It computes an average human/non-human overlap for the two classes `#3. Average overlap for animal-l and animal-t per sp.` (line 120), which is correlated with species' specific model balanced accuracy `#4. Correlation between morphospace overlap and balanced accurracy`.
+<p align="center"> 
+<img src="https://github.com/simonpcastillo/PanSpeciesHistology/blob/main/img/all.png" width="300" height="300">
+</p>
+
+Finally, a higher resolution analysis of morphospace overlap between human an non-human spacies follows the label `#II. Species-specific overlap` (line 76). It includes data preparation, PCA and overlap. It computes an average human/non-human overlap for the two classes `#3. Average overlap for animal-l and animal-t per sp.` (line 120), which is correlated with species' specific model balanced accuracy `#4. Correlation between morphospace overlap and balanced accurracy`.
 
 
 
