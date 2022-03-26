@@ -3,6 +3,11 @@
 
 [![bio shield](https://img.shields.io/static/v1?label=bioRxiv&message=10.1101/2022.03.05.482261v1&color=RED)](https://www.biorxiv.org/content/10.1101/2022.03.05.482261v1)
 
+<p align='center'>
+    <img src= 'https://github.com/simonpcastillo/PanSpeciesHistology/blob/main/img/panspp.png' width="300" height="250">
+ </p>
+
+
 <p align="center"> 
 Khalid AbdulJabbar, Simon P. Castillo, Katherine Hughes, Hannah Davidson, Amy M. Boddy, Lisa M. Abegglen, Elizabeth P. Murchison, Trevor A. Graham, Simon Spiro, Chiara Palmieri, Yinyin Yuan
 </p>
