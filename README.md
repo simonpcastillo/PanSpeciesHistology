@@ -6,8 +6,9 @@ Khalid AbdulJabbar, Simon P. Castillo, Katherine Hughes, Hannah Davidson, Amy M.
 
 Contact [Khalid AbdulJabbar](khalid.abduljabbar@icr.ac.uk), [Simon Castillo](simon.castillo@icr.ac.uk), or [Yinyin Yuan](yinyin.yuan@icr.ac.uk)
 
-![alt text](img/panspp.png=250x250)
+![alt text](img/panspp.png | width=100)
 
+<img src="mg/panspp.png" width="100" height="100">
 ### Reproducing paper results
 
 
