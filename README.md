@@ -12,7 +12,7 @@
 Khalid AbdulJabbar, Simon P. Castillo, Katherine Hughes, Hannah Davidson, Amy M. Boddy, Lisa M. Abegglen, Elizabeth P. Murchison, Trevor A. Graham, Simon Spiro, Chiara Palmieri, Yinyin Yuan
 </p>
 
-Contact: [Khalid AbdulJabbar](khalid.abduljabbar@icr.ac.uk), [Simon Castillo](simon.castillo@icr.ac.uk), or [Yinyin Yuan](yinyin.yuan@icr.ac.uk)
+Contact: [Khalid AbdulJabbar](mailto:khalid.abduljabbar@icr.ac.uk), [Simon Castillo](mailto:simon.castillo@icr.ac.uk), or [Yinyin Yuan](mailto:yinyin.yuan@icr.ac.uk)
 
 To know more: [yuanlab.org](https://yuanlab.org/projects.html) 
 
