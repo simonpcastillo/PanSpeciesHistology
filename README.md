@@ -14,7 +14,7 @@ Khalid AbdulJabbar, Simon P. Castillo, Katherine Hughes, Hannah Davidson, Amy M.
 
 Contact: [Khalid AbdulJabbar](mailto:khalid.abduljabbar@icr.ac.uk), [Simon Castillo](mailto:simon.castillo@icr.ac.uk), or [Yinyin Yuan](mailto:yinyin.yuan@icr.ac.uk)
 
-To know more: [yuanlab.org](https://yuanlab.org/projects.html) 
+To know more: [yuanlab.org](https://yuanlab.org/projects.html) | [panspecies.ai](panspecies.ai)
 
 ## Overview
 
