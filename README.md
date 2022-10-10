@@ -9,18 +9,18 @@
 
 
 <p align="center"> 
-Khalid AbdulJabbar, Simon P. Castillo, Katherine Hughes, Hannah Davidson, Amy M. Boddy, Lisa M. Abegglen, Elizabeth P. Murchison, Trevor A. Graham, Simon Spiro, Chiara Palmieri, Yinyin Yuan
+Khalid AbdulJabbar, Simon P. Castillo, Katherine Hughes, Hannah Davidson, Amy M. Boddy, Lisa M. Abegglen, Elizabeth P. Murchison, Trevor A. Graham, Simon Spiro, Carlo C. Maley, Luca Aresu, Chiara Palmieri, Yinyin Yuan
 </p>
 
-Contact: [Khalid AbdulJabbar](mailto:khalid.abduljabbar@icr.ac.uk), [Simon Castillo](mailto:simon.castillo@icr.ac.uk), or [Yinyin Yuan](mailto:yinyin.yuan@icr.ac.uk)
+Contact: [Khalid AbdulJabbar](mailto:khalid.abduljabbar@icr.ac.uk), [Simon Castillo](mailto:simon.castillo@icr.ac.uk), or [Yinyin Yuan](mailto:yyuan6@mdanderson.orh)
 
-To know more: [yuanlab.org](https://yuanlab.org/projects.html) | [panspecies.ai](https://panspecies.ai)
+To know more: [panspecies.ai](https://panspecies.ai) | [yuanlab.org](https://yuanlab.org/projects.html) 
 
 ## Overview
 
-We  conducted the first pan-species study of computational comparative pathology using a supervised convolutional neural network algorithm trained on human samples and tested in 20 non-human species. The artificial intelligence algorithm achieves high accuracy in measuring immune response through single-cell classification for two transmissible cancers (canine transmissible venereal tumour, 0.94; Tasmanian devil facial tumour disease, 0.88). Furthermore, in 18 other vertebrate species (mammalia=11, reptilia=4, aves=2, and amphibia=1), accuracy (0.57-0.94) was influenced by cell morphological similarity preserved across different taxonomic groups, tumour sites, and variations in the immune compartment. 
+We  conducted the first pan-species study of computational comparative pathology using a supervised convolutional neural network algorithm trained on human samples and tested in 20 non-human species. The artificial intelligence algorithm achieves high accuracy in single-cell classificationacross species and proved to contribute to the scoring of immune infiltration through the use of spatial statistics.
 
-A new metric, named morphospace overlap, was developed to guide rational deployment of this technology on new samples. This study provides the foundation and guidelines for transferring artificial intelligence technologies to veterinary pathology based on a new understanding of morphological conservation, which could vastly accelerate new developments in veterinary medicine and comparative oncology.
+A new metric, named morphospace overlap, was developed to guide rational deployment of this technology on new samples and improve the interpretation of performance metrics. This study provides the foundation and guidelines for transferring artificial intelligence technologies to veterinary pathology based on a new understanding of morphological conservation, which could vastly accelerate new developments in veterinary medicine and comparative oncology.
 
 ### Reproducing paper results
 For the morphospace analysis we provided all the data necessary for reproducing our results. We suggest to download and unzip this whole repository.
