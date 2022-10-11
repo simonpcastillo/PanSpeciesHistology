@@ -55,7 +55,7 @@ Under the label `#0. Data load and preparation`, there are the steps for prepari
     ```
 From the label `#1. tSNE` (line 24), the pipeline starts computing tSNE dimension reduction and posterior computation of morphospace overlap resulting in a dataframe (sum_overlap) with summary overlap for each species of the cohort 0 and cells used for training the human-lung model.
 <p align="center"> 
-<img src="https://github.com/simonpcastillo/PanSpeciesHistology/blob/main/img/all.png" width="300" height="300">
+<img src="https://github.com/simonpcastillo/PanSpeciesHistology/blob/main/img/morphospace.png?raw=true" width="950" height="450">
 </p>
 
 
